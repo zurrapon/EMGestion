@@ -1,1 +1,0 @@
-java -jar arreglobdu2025.jar
